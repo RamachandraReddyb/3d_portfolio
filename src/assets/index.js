@@ -25,12 +25,28 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import h5 from "./company/h5.jpg";
+import harman from "./company/harman.png";
+import robosoft from "./company/robosoft.png";
+import impelsys from "./company/impelsys.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import chatbot from "./chatbot.png";
+import dalle from "./dall-e.png";
+import youtube from "./youtube_clone.png";
+import tiktik from "./tiktik.png";
 
 export {
+  tiktik,
+  youtube,
+  chatbot,
+  dalle,
+  h5,
+  harman,
+  robosoft,
+  impelsys,
   logo,
   backend,
   creator,
