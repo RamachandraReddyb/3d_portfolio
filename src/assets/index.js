@@ -33,7 +33,7 @@ import impelsys from "./company/impelsys.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import chatbot from "./chatbot.png";
+import chatbot from "./chatbot.jpg";
 import dalle from "./dall-e.png";
 import youtube from "./youtube_clone.png";
 import tiktik from "./tiktik.png";
