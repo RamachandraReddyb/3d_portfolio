@@ -227,7 +227,7 @@ const projects = [
     source_code_link: "https://github.com/RamachandraReddyb/codex",
   },
   {
-    name: "Job IT",
+    name: "Image Generator",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -236,11 +236,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "OpenAi",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "GPT-4",
         color: "pink-text-gradient",
       },
     ],
@@ -248,16 +248,16 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Videos at one Place",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Rapid Api",
         color: "green-text-gradient",
       },
       {
@@ -269,7 +269,28 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "TikTik Videos",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Strapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tiktik,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Article Summarizer",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -288,6 +309,7 @@ const projects = [
     ],
     image: tiktik,
     source_code_link: "https://github.com/",
+    visit_site_link: "https://meek-baklava-bdc659.netlify.app/",
   },
 ];
 
