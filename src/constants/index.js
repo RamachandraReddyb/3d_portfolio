@@ -225,6 +225,7 @@ const projects = [
     ],
     image: chatbot,
     source_code_link: "https://github.com/RamachandraReddyb/codex",
+    visit_site_link: "https://botcode-woad.vercel.app/",
   },
   {
     name: "Image Generator",
@@ -246,6 +247,7 @@ const projects = [
     ],
     image: dalle,
     source_code_link: "https://github.com/",
+    visit_site_link: "https://dall-emages.vercel.app/",
   },
   {
     name: "Videos at one Place",
@@ -267,6 +269,7 @@ const projects = [
     ],
     image: youtube,
     source_code_link: "https://github.com/",
+    visit_site_link: "https://playvideo-seven.vercel.app/",
   },
   {
     name: "TikTik Videos",
@@ -288,6 +291,7 @@ const projects = [
     ],
     image: tiktik,
     source_code_link: "https://github.com/",
+    visit_site_link: "https://tiktok-clone-khaki.vercel.app/",
   },
   {
     name: "Article Summarizer",
@@ -295,15 +299,15 @@ const projects = [
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "openAi",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
