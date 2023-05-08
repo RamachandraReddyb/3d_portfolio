@@ -37,6 +37,8 @@ import chatbot from "./chatbot.jpg";
 import dalle from "./dall-e.png";
 import youtube from "./youtube_clone.png";
 import tiktik from "./tiktik.png";
+import fiverr from "./fiverr.png";
+import sumz from "./sumz.png";
 
 export {
   tiktik,
@@ -75,4 +77,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  fiverr,
+  sumz,
 };

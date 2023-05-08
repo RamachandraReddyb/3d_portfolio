@@ -31,6 +31,8 @@ import {
   dalle,
   youtube,
   tiktik,
+  fiverr,
+  sumz,
 } from "../assets";
 
 export const navLinks = [
@@ -296,7 +298,7 @@ const projects = [
   {
     name: "Article Summarizer",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Summarize Articles with OpenAI GPT-4 Simplify your reading, an open-source article summarizer that tranforms lengthy articles into a clear and concise summaries",
     tags: [
       {
         name: "react",
@@ -311,7 +313,25 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tiktik,
+    image: sumz,
+    source_code_link: "https://github.com/",
+    visit_site_link: "https://meek-baklava-bdc659.netlify.app/",
+  },
+  {
+    name: "Fiverr Design",
+    description:
+      "Summarize Articles with OpenAI GPT-4 Simplify your reading, an open-source article summarizer that tranforms lengthy articles into a clear and concise summaries",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+    ],
+    image: fiverr,
     source_code_link: "https://github.com/",
     visit_site_link: "https://meek-baklava-bdc659.netlify.app/",
   },
