@@ -333,7 +333,7 @@ const projects = [
     ],
     image: fiverr,
     source_code_link: "https://github.com/",
-    visit_site_link: "https://meek-baklava-bdc659.netlify.app/",
+    visit_site_link: "https://fiverr-q6la.vercel.app/",
   },
 ];
 
